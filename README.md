@@ -15,7 +15,7 @@ In order to turn this into a functioning app with online/offline functionality, 
 
 ## Link and Screenshots
 
-[Deployed Application on Heroku](https://dashboard.heroku.com/apps/ancient-tor-53184/deploy/github)  
+[Deployed Application on Heroku](https://ancient-tor-53184.herokuapp.com/)  
   
 ![screenshot of application](./assets/budgetscreenshot1.jpg)  
 
